@@ -1,4 +1,4 @@
-# React samples
+# RandomUser sample
 
 Basic sample using :
 
