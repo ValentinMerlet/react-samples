@@ -2,7 +2,6 @@
 
 Basic sample using :
 
-- react-router
 - react-bootstrap
 - axios
 - lodash
